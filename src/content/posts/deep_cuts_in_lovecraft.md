@@ -4,7 +4,7 @@ title: 'Deep cuts in veins of cosmic horror'
 description: 'Exploring the history of the cosmic horror genre....'
 pubDate: 2025-11-27
 author: 'Bigdwarf43'
-image: '/images/Moebius.jpeg'
+image: 'images/Moebius.jpeg'
 tags: ["literature"]
 ---
 “The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown”
