@@ -6,7 +6,7 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://bigdwarf43.github.io/astro-theme-blog',
   // Only use base path in production (GitHub Pages)
-  base: process.env.NODE_ENV === 'production' ? '/astro-theme-blog' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/astro-theme-blog/' : '/',
   integrations: [sitemap()],
   markdown: {
     shikiConfig: {
