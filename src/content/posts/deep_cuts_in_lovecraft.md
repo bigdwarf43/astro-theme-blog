@@ -29,14 +29,14 @@ But in 2022 almost 80 years later, artists with an interest in horror and supern
 
 Writers were experimenting with the themes of cosmic horror long before Lovecraft was even born, but he was the one to coin the term. According to Lovecraft, cosmic horror stories deal with the forces of nature that are so far beyond mortal comprehension that there is nothing humans can do to deal with them. Often, the protagonists of these stories uncover some arcane knowledge that shatters their perception of reality and drives them insane. For example, in Lovecraft's 1928 short story *‘The Call of Cthulhu’* the protagonist Francis Wayland Thurston discovers a secretive pagan cult that worships a long-forgotten tentacle-faced anthropoid God called *Cthulhu* (pronounced as cloo-lu). As he digs deeper, his inquiry into the matter reveals an underground network of cults that commonly worship this entity. Presumably, Cthulhu sleeps in a mausoleum city under the sea and will someday rise again to enslave the earth.
 
-![Cthulhu](/images/deep-cuts-in-lovecraft/image5.png)
+![Cthulhu](images/deep-cuts-in-lovecraft/image5.png)
 
 ***Cthulhu, a drawing by H.P. Lovecraft made for his correspondent R.H Barlow***
 
 *“The Call Of Cthulhu”* established major tropes that would serve as a checklist for future stories that involve some sort of alien vistas and beliefs painted over the stable veil of human perception: a bizarre and grotesque cult, a hint of the existence of an all-powerful god-like entity and a protagonist driven insane by revelations which were not meant for human purview \- a perfect mix. Cthulhu was added to the already sprawling Lovecraftian mythos of gods and vistas which were beyond human comprehension. 
 
 In 1927, Lovecraft entered the most prolific era of his career. In a span of six years, he produced some of his finest works like *‘The Call Of Cthulhu’*, *“The Dunwich Horror,”* and the novellas *“The Shadow over Innsmouth”* and *“At the Mountains of Madness”*. All of Lovecraft's work went into the public domain following his death in 1937 as the writer had no offspring or blood relatives to pass his legacy to. August Derleth and Donald Wandrei, two of Lovecraft's close friends set up “Arkham publishing house” to preserve Lovecraft's works and to keep them in print, this venture didn’t turn out to be a profitable one.  
-![H.P. Lovecraft](/images/deep-cuts-in-lovecraft/image2.png)
+![H.P. Lovecraft](images/deep-cuts-in-lovecraft/image2.png)
 ***H.P. Lovecraft***
 
 In the decades following Lovecraft's death, notable authors like Robert Bloch, Stephen King, Neil Gaiman, and Alan Moore started adopting elements from Lovecraft's mythos. By the turn of the 21st century, the Cthulhu Mythos had become a cultural phenomenon, spawning countless short stories, novels, video games, and board games, and inspiring a plethora of horror films. Sadly Lovecraft didn’t live long enough to witness the impact of his creations.
@@ -57,7 +57,7 @@ Stephen King in his 1981 book *“Danse Macabre”* discussed the necessary aspe
 Cosmic horror spends all of its points on terror, with a heavy emphasis on showing the terrorized state of the protagonists. The mental state of the protagonist slowly deprecates and all you can do is witness their descent into madness. The horror stems from the realization that the human mind is a fragile thing, if it dwells too long on certain unexplainable thoughts the neocortex gets stuck in an infinite loop ultimately eliminating your consciousness. 
 
 In Lovecraft’s 1936 novella “At the Mountains of Madness”, a group of scientists discovers vast alien cities buried beneath the ice of Antarctica and the awesome and awful survivors of its glorious past. The story is structured as a first-person narrative of a geologist, Dr. William Dyer. As the narrative comes to its end, Dyer’s speech is reduced to just fragments of a dreamlike situation. Whether the narrative of Dyer was a genuine one or just a rambling of a crazed old scientist, the readers are left to decide. Ponder too long on the question and you’ll become just like one of the protagonists of these stories, stuck in an endless pursuit of answering unexplainable questions.  
-![The elder thing](/images/deep-cuts-in-lovecraft/image1.png)
+![The elder thing](images/deep-cuts-in-lovecraft/image1.png)
 
 ***The elder thing from “At the mountains of madness”***
 
@@ -73,7 +73,7 @@ Showing the unthinkable and incomprehensible visually is a tricky task. It’s l
 ---
 
 Carrying Lovecraft's legacy writers like Thomas Ligotti became the torchbearers for the genre after Lovecraft's death. The horror literature community soon started referring to Ligotti as the best-kept secret in horror fiction. Ligotti’s pessimistic and nihilistic visions for the human race resulted in bone-chilling short stories with fantastically crafted depraved worlds and protagonists. While Lovecraft's protagonists were scientists, victorian era professors, and scholars, Ligotti’s hapless characters were drifters, dreamers, and most of the time \- nobodies. These characters didn’t fear the subversion of human knowledge, rather they embraced it. The protagonists rejoiced as the boundaries of their material world slowly melted away. Ligotti’s anthologies like the “Songs of a dead dreamer” and “Grimscribe”  feel like an illogical uncanny dream, there’s no explanation or context to the events happening. But the readers keep coming back to explore surreal worlds and grotesque dreamscapes, just like the protagonists in these stories who escape the banality of their square world and explore the outer limits of the human experience.  
-![Songs of a dead dreamer](/images/deep-cuts-in-lovecraft/image4.png)
+![Songs of a dead dreamer](images/deep-cuts-in-lovecraft/image4.png)
 
 ***Ligotti’s first collection “Songs of a dead dreamer”, 1985***
 
