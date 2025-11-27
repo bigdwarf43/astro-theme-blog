@@ -4,7 +4,7 @@ title: 'Deep cuts in veins of cosmic horror'
 description: 'Exploring the history of the cosmic horror genre....'
 pubDate: 2025-11-27
 author: 'Bigdwarf43'
-image: '/images/deep-cuts-in-lovecraft/image3.jpg'
+image: 'images/deep-cuts-in-lovecraft/image3.jpg'
 tags: ["literature"]
 ---
 **An article for a college magazine, written during my intense Lovecraft phase.**
