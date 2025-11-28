@@ -9,11 +9,35 @@ const posts = (await getCollection('posts'))
 ---
 
 <BaseLayout title="Terminal">
-  <div class="index-content framed">
-  <h1 id="hello-there">Hello there!</h1>
-  <p>I'm Yash. This is my little corner of the internet where I write, build things, and occasionally release odd little games.</p>
-  <p>Feel free to browse the posts and projects.</p>
+<section class="index-content framed">
+  <header>
+    <h1 id="hello-there">Hi, I'm Yash.</h1>
+    
+    <p class="tagline">Developer, Writer, and Creator of Odd Little Games.</p>
+  </header>
+
+  <div class="intro-text">
+    <p>
+      This is my dedicated space on the internet. I focus on **writing insightful posts** about development, sharing unique **side projects**, and occasionally releasing games that explore strange corners of fiction and code.
+    </p>
+    <p>
+      Dive into my work, explore my thoughts, or find your next odd obsession.
+    </p>
   </div>
+
+  <div class="cta-group">
+    <a href="/posts/" class="button primary">
+      Read My Latest Posts
+    </a>
+    
+    <a href="https://substack.com/@bigdwarf43?" class="button secondary">
+      Subscribe on Substack
+    </a>
+    <a href="https://bigdwarf43.itch.io/" class="button secondary">
+      🕹️ Play My Games
+    </a>
+  </div>
+</section>
   
   <div class="posts">
     {posts.map((post) => <PostCard post={post} />)}
